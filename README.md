@@ -38,6 +38,7 @@ This repository contains some resources that I have learn / read through my jour
 - Others:
     - [The Zen of Go - Dave Cheney](https://dave.cheney.net/2020/02/23/the-zen-of-go)
     - [SOLID Go Desgin - Dave Cheney](https://dave.cheney.net/2016/08/20/solid-go-design)
+    - [Practical Go - Dave Cheney](https://dave.cheney.net/practical-go)
     - [Awesome Go](https://github.com/avelino/awesome-go)
 
 ### Java
@@ -52,14 +53,10 @@ This repository contains some resources that I have learn / read through my jour
 
 ## Operation System
 
-## Data storages
-
-### Relational Database
-
-### NoSQL Database
+## Database
 
 - Others:
-    - [GOTO Conference • Introduction to NoSQL • Martin Fowler](https://www.youtube.com/watch?v=qI_g07C_Q5I&t=1110s)
+    - [GOTO Conference - Introduction to NoSQL - Martin Fowler](https://www.youtube.com/watch?v=qI_g07C_Q5I&t=1110s)
 
 ## Software Design and Development
 
@@ -76,9 +73,13 @@ This repository contains some resources that I have learn / read through my jour
 - Books:
     - [Clean Code: A Handbook of Agile Software Craftsmanship - Robert C. Martin](https://www.goodreads.com/book/show/3735293-clean-code)
     - [Code Complete - Steve McConnell](https://www.goodreads.com/book/show/4845.Code_Complete)
+    - [Working Effectively with Legacy Code - Michael C. Feathers](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)
 
 - Courses:
-    - [Software Development Process](https://classroom.udacity.com/courses/ud805)
+    - [Udacity - Software Development Process](https://classroom.udacity.com/courses/ud805)
+
+- Websites:
+    - [The Twelve-Factor App](https://12factor.net)
 
 ### Refactoring
 
@@ -94,6 +95,7 @@ This repository contains some resources that I have learn / read through my jour
 
 - Others:
     - [Eradicating Non-Determinism in Tests - Martin Fowler](https://martinfowler.com/articles/nonDeterminism.html)
+    - [GOTO Conference - Millisecond Full Stack Acceptance Tests - Aslak Hellesøy](https://www.youtube.com/watch?v=sUclXYMDI94)
 
 ### Architectures
 
@@ -104,22 +106,26 @@ This repository contains some resources that I have learn / read through my jour
     - [Domain-Driven Design Quickly - Floyd Marinescu](https://www.goodreads.com/book/show/2558105.Domain_Driven_Design_Quickly)
 
 - Courses:
-    - [Software Architecture & Design](https://classroom.udacity.com/courses/ud821)
+    - [Udacity - Software Architecture & Design](https://classroom.udacity.com/courses/ud821)
 
 - Others:
     - [How to Design a Web Application: Software Architecture 101](https://hackernoon.com/how-to-design-a-web-application-software-architecture-101-eecy36o5)
+    - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+    - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
+    - [Architecture styles](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/)
 
 ### CI/CD
+
+- Books:
+    - [Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation - Jez Humble, David Farley](https://www.goodreads.com/book/show/8686650-continuous-delivery)
+
+- Courses:
+    - [Udacity - Intro to DevOps](https://classroom.udacity.com/courses/ud611)
 
 ### Docker, Kubernetes
 
 - Courses:
-    - [Scalable Microservices with Kubernetes](https://classroom.udacity.com/courses/ud615)
-
-### Uncategorized
-
-- Websites:
-    - [The Twelve-Factor App](https://12factor.net)
+    - [Udacity - Scalable Microservices with Kubernetes](https://classroom.udacity.com/courses/ud615)
 
 ## Search Engine
 
@@ -134,14 +140,14 @@ This repository contains some resources that I have learn / read through my jour
 ### HTTP/HTTPS
 
 - Courses:
-    - [Client-Server Communication](https://classroom.udacity.com/courses/ud897)
+    - [Udacity - Client-Server Communication](https://classroom.udacity.com/courses/ud897)
 
 ### Web Sockets
 
 ### Web Servers
 
 - Courses
-    - [Configuring Linux Web Servers](https://classroom.udacity.com/courses/ud299)
+    - [Udacity - Configuring Linux Web Servers](https://classroom.udacity.com/courses/ud299)
 
 ### Web APIs
 
@@ -149,22 +155,32 @@ This repository contains some resources that I have learn / read through my jour
 
 #### GraphQL
 
+- Document:
+    - [GraphQL](https://graphql.org)
+
 #### gRPC
+
+- Document:
+    - [gRPC](https://grpc.io)
 
 ### Web Security
 
 - Courses:
     - [Authentication & Authorization: OAuth](https://classroom.udacity.com/courses/ud330)
 
+- Others:
+    - [JSON Web Tokens](https://auth0.com/docs/tokens/concepts/jwts)
+
 ## Essential Tools
 
 ### Git
 
 - Courses:
-    - [https://www.udacity.com/course/version-control-with-git--ud123](https://www.udacity.com/course/version-control-with-git--ud123)
+    - [Udacity - Version Control With Git](https://www.udacity.com/course/version-control-with-git--ud123)
 
 - Others:
     - [The Workflow of Version Control](https://www.git-tower.com/learn/cheat-sheets/vcs-workflow)
+    - [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
 ### Bash & Terminal
 
@@ -178,5 +194,8 @@ This repository contains some resources that I have learn / read through my jour
 ### Licenses
 
 ### Semactic Versioning
+
+- Document:
+    - [Semantic Versioning](https://semver.org)
 
 ## Character Encodings
