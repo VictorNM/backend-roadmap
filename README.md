@@ -40,6 +40,9 @@ This repository contains some resources that I have learn / read through my jour
     - [SOLID Go Desgin - Dave Cheney](https://dave.cheney.net/2016/08/20/solid-go-design)
     - [Practical Go - Dave Cheney](https://dave.cheney.net/practical-go)
     - [Awesome Go](https://github.com/avelino/awesome-go)
+    - [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
+    - [When in Go, do as Gophers do - Fumitoshi Ukai](https://talks.golang.org/2014/readability.slide)
+    - [Twelve Go Best Practices - Francesc Campoy Flores](https://talks.golang.org/2013/bestpractices.slide)
 
 ### Java
 
