@@ -19,6 +19,7 @@ This repository contains some resources that I have learn / read through my jour
 - Documents
     - [A Tour of Go](https://tour.golang.org)
     - [Effective Go](https://golang.org/doc/effective_go.html)
+    - [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 
 - Books:
     - [The Go Programming Language - Alan A. A. Donovan,  Brian W. Kernighan](https://www.goodreads.com/book/show/25080953-the-go-programming-language)
@@ -40,9 +41,9 @@ This repository contains some resources that I have learn / read through my jour
     - [SOLID Go Desgin - Dave Cheney](https://dave.cheney.net/2016/08/20/solid-go-design)
     - [Practical Go - Dave Cheney](https://dave.cheney.net/practical-go)
     - [Awesome Go](https://github.com/avelino/awesome-go)
-    - [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
     - [When in Go, do as Gophers do - Fumitoshi Ukai](https://talks.golang.org/2014/readability.slide)
     - [Twelve Go Best Practices - Francesc Campoy Flores](https://talks.golang.org/2013/bestpractices.slide)
+    - [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)
 
 ### Java
 
@@ -70,6 +71,23 @@ This repository contains some resources that I have learn / read through my jour
 - Books:
     - [Head First Design Patterns: A Brain-Friendly Guide](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
     - [Design Patterns: Elements of Reusable Object-Oriented Software - Erich Gamma, Ralph Johnson, John Vlissides, Richard Helm](https://www.goodreads.com/book/show/85009.Design_Patterns)
+
+### Architectures
+
+- Books:
+    - [Clean Architecture - Robert C. Martin](https://www.goodreads.com/book/show/18043011-clean-architecture)
+    - [Patterns of Enterprise Application Architecture - Martin Fowler,  David Rice, Matthew Foemmel, Edward Hieatt, Robert Mee, Randy Stafford ](https://www.goodreads.com/book/show/70156.Patterns_of_Enterprise_Application_Architecture)
+    - [Domain-Driven Design: Tackling Complexity in the Heart of Software - Eric Evans](https://www.goodreads.com/book/show/179133.Domain_Driven_Design)
+    - [Domain-Driven Design Quickly - Floyd Marinescu](https://www.goodreads.com/book/show/2558105.Domain_Driven_Design_Quickly)
+
+- Courses:
+    - [Udacity - Software Architecture & Design](https://classroom.udacity.com/courses/ud821)
+
+- Others:
+    - [How to Design a Web Application: Software Architecture 101](https://hackernoon.com/how-to-design-a-web-application-software-architecture-101-eecy36o5)
+    - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+    - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
+    - [Architecture styles](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/)
 
 ### Software Development
 
@@ -100,22 +118,11 @@ This repository contains some resources that I have learn / read through my jour
     - [Eradicating Non-Determinism in Tests - Martin Fowler](https://martinfowler.com/articles/nonDeterminism.html)
     - [GOTO Conference - Millisecond Full Stack Acceptance Tests - Aslak Hellesøy](https://www.youtube.com/watch?v=sUclXYMDI94)
 
-### Architectures
-
-- Books:
-    - [Clean Architecture - Robert C. Martin](https://www.goodreads.com/book/show/18043011-clean-architecture)
-    - [Patterns of Enterprise Application Architecture - Martin Fowler,  David Rice, Matthew Foemmel, Edward Hieatt, Robert Mee, Randy Stafford ](https://www.goodreads.com/book/show/70156.Patterns_of_Enterprise_Application_Architecture)
-    - [Domain-Driven Design: Tackling Complexity in the Heart of Software - Eric Evans](https://www.goodreads.com/book/show/179133.Domain_Driven_Design)
-    - [Domain-Driven Design Quickly - Floyd Marinescu](https://www.goodreads.com/book/show/2558105.Domain_Driven_Design_Quickly)
-
-- Courses:
-    - [Udacity - Software Architecture & Design](https://classroom.udacity.com/courses/ud821)
+### Monitoring
 
 - Others:
-    - [How to Design a Web Application: Software Architecture 101](https://hackernoon.com/how-to-design-a-web-application-software-architecture-101-eecy36o5)
-    - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
-    - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
-    - [Architecture styles](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/)
+    - [GOTO Conference - Live Kubernetes Debugging with the Elastic Stack • Philipp Krenn](https://www.youtube.com/watch?v=LvhIMkr0rXg)
+    - [Grafana Best practices](https://grafana.com/docs/grafana/latest/best-practices/)
 
 ### CI/CD
 
@@ -125,7 +132,10 @@ This repository contains some resources that I have learn / read through my jour
 - Courses:
     - [Udacity - Intro to DevOps](https://classroom.udacity.com/courses/ud611)
 
-### Docker, Kubernetes
+- Others:
+    - [GOTO Conference - Modern Continuous Delivery • Ken Mugrage](https://www.youtube.com/watch?v=lBi85lNmKFw)
+
+### Container
 
 - Courses:
     - [Udacity - Scalable Microservices with Kubernetes](https://classroom.udacity.com/courses/ud615)
@@ -154,6 +164,11 @@ This repository contains some resources that I have learn / read through my jour
 
 ### Web APIs
 
+#### General
+
+- Others:
+    - [Google API Design Guide](https://cloud.google.com/apis/design)
+
 #### REST
 
 #### GraphQL
@@ -174,7 +189,7 @@ This repository contains some resources that I have learn / read through my jour
 - Others:
     - [JSON Web Tokens](https://auth0.com/docs/tokens/concepts/jwts)
 
-## Essential Tools
+## Developer Tools
 
 ### Git
 
@@ -201,4 +216,4 @@ This repository contains some resources that I have learn / read through my jour
 - Document:
     - [Semantic Versioning](https://semver.org)
 
-## Character Encodings
+### Character Encodings
