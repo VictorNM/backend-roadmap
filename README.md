@@ -88,6 +88,7 @@ This repository contains some resources that I have learn / read through my jour
     - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
     - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
     - [Architecture styles](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/)
+    - [GOTO Conference - The Many Meanings of Event-Driven Architecture - Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0&t)
 
 ### Software Development
 
@@ -133,18 +134,21 @@ This repository contains some resources that I have learn / read through my jour
     - [Udacity - Intro to DevOps](https://classroom.udacity.com/courses/ud611)
 
 - Others:
-    - [GOTO Conference - Modern Continuous Delivery • Ken Mugrage](https://www.youtube.com/watch?v=lBi85lNmKFw)
+    - [GOTO Conference - Modern Continuous Delivery - Ken Mugrage](https://www.youtube.com/watch?v=lBi85lNmKFw)
 
 ### Container
 
 - Courses:
     - [Udacity - Scalable Microservices with Kubernetes](https://classroom.udacity.com/courses/ud615)
 
-## Search Engine
+### Search Engine
 
-## Message Broker
+### Message Broker
 
-## Caching
+- Others:
+    - [Should You Put Several Event Types in the Same Kafka Topic?](https://www.confluent.io/blog/put-several-event-types-kafka-topic/)
+
+### Caching
 
 ## Web Development
 
@@ -154,6 +158,9 @@ This repository contains some resources that I have learn / read through my jour
 
 - Courses:
     - [Udacity - Client-Server Communication](https://classroom.udacity.com/courses/ud897)
+
+- Others:
+    - [GOTO Conference - HTTP/3 Is Next Generation HTTP. Is It QUIC Enough? - Daniel Stenberg](https://www.youtube.com/watch?v=pUxyukqoXR4)
 
 ### Web Sockets
 
