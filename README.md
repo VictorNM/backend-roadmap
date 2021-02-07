@@ -92,6 +92,9 @@ This repository contains some resources that I have learn / read through my jour
 - Books:
     - [Effective Java - Joshua Bloch](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997)
 
+- Others:
+    - [Hackerrank - Java](https://www.hackerrank.com/domains/java)
+
 ### C / C++
 
 -  Books:
@@ -169,6 +172,7 @@ This repository contains some resources that I have learn / read through my jour
 ### Monitoring
 
 - Others:
+    - [Google - Monitoring Distributed Systems](https://sre.google/sre-book/monitoring-distributed-systems/)
     - [GOTO Conference - Live Kubernetes Debugging with the Elastic Stack - Philipp Krenn](https://www.youtube.com/watch?v=LvhIMkr0rXg)
     - [Grafana Best practices](https://grafana.com/docs/grafana/latest/best-practices/)
 
