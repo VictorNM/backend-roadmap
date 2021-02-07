@@ -84,11 +84,16 @@ This repository contains some resources that I have learn / read through my jour
     - [Udacity - Software Architecture & Design](https://classroom.udacity.com/courses/ud821)
 
 - Others:
-    - [How to Design a Web Application: Software Architecture 101](https://hackernoon.com/how-to-design-a-web-application-software-architecture-101-eecy36o5)
-    - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
-    - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
-    - [Architecture styles](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/)
+    - [Hackernoon - How to Design a Web Application: Software Architecture 101 - Fahim ul Haq](https://hackernoon.com/how-to-design-a-web-application-software-architecture-101-eecy36o5)
+    - [Github - The System Design Primer](https://github.com/donnemartin/system-design-primer)
+    - [Github - Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
+    - [Microsoft - Architecture styles](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/)
     - [GOTO Conference - The Many Meanings of Event-Driven Architecture - Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0&t)
+    - [GOTO Conference - 3 Common Pitfalls in Microservice Integration & How to Avoid Them - Bernd Rücker](https://www.youtube.com/watch?v=7uvK4WInq6k)
+    - [GOTO Conference - Five Things Every Developer Should Know about Software Architecture - Simon Brown](https://www.youtube.com/watch?v=9Az0q2XHtH8)
+    - [GOTO Conference - Event-based Architecture and Implementations with Kafka and Atom - Eberhard Wolff](https://www.youtube.com/watch?v=Ecg7lvvm8aU)
+    - [GOTO Conference - Modular Monoliths - Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE)
+    - [InfoQ - Mastering Chaos - A Netflix Guide to Microservices - Josh Evans](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
 
 ### Software Development
 
@@ -122,7 +127,7 @@ This repository contains some resources that I have learn / read through my jour
 ### Monitoring
 
 - Others:
-    - [GOTO Conference - Live Kubernetes Debugging with the Elastic Stack • Philipp Krenn](https://www.youtube.com/watch?v=LvhIMkr0rXg)
+    - [GOTO Conference - Live Kubernetes Debugging with the Elastic Stack - Philipp Krenn](https://www.youtube.com/watch?v=LvhIMkr0rXg)
     - [Grafana Best practices](https://grafana.com/docs/grafana/latest/best-practices/)
 
 ### CI/CD
@@ -146,7 +151,8 @@ This repository contains some resources that I have learn / read through my jour
 ### Message Broker
 
 - Others:
-    - [Should You Put Several Event Types in the Same Kafka Topic?](https://www.confluent.io/blog/put-several-event-types-kafka-topic/)
+    - [Should You Put Several Event Types in the Same Kafka Topic? - Martin Kleppmann](https://www.confluent.io/blog/put-several-event-types-kafka-topic/)
+    - [Top 5 Things Every Apache Kafka Developer Should Know - Bill Bejeck](https://www.confluent.io/blog/5-things-every-kafka-developer-should-know/)
 
 ### Caching
 
