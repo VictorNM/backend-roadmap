@@ -62,6 +62,7 @@ This repository contains some resources that I have learn / read through my jour
     - [A Tour of Go](https://tour.golang.org)
     - [Effective Go](https://golang.org/doc/effective_go.html)
     - [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
+    - [Modules](https://github.com/golang/go/wiki/Modules)
 
 - Books:
     - [The Go Programming Language - Alan A. A. Donovan,  Brian W. Kernighan](https://www.goodreads.com/book/show/25080953-the-go-programming-language)
@@ -86,6 +87,7 @@ This repository contains some resources that I have learn / read through my jour
     - [When in Go, do as Gophers do - Fumitoshi Ukai](https://talks.golang.org/2014/readability.slide)
     - [Twelve Go Best Practices - Francesc Campoy Flores](https://talks.golang.org/2013/bestpractices.slide)
     - [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)
+    - [Go Modules by Example](https://github.com/go-modules-by-example/index)
 
 ### Java
 
