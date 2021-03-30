@@ -177,6 +177,7 @@ This repository contains some resources that I have learn / read through my jour
     - [Google - Monitoring Distributed Systems](https://sre.google/sre-book/monitoring-distributed-systems/)
     - [GOTO Conference - Live Kubernetes Debugging with the Elastic Stack - Philipp Krenn](https://www.youtube.com/watch?v=LvhIMkr0rXg)
     - [Grafana Best practices](https://grafana.com/docs/grafana/latest/best-practices/)
+    - [Worth a Look: Public Grafana Dashboards](https://grafana.com/blog/2019/05/16/worth-a-look-public-grafana-dashboards/)
 
 ### CI/CD
 
