@@ -174,6 +174,7 @@ This repository contains some resources that I have learn / read through my jour
 ### Monitoring
 
 - Others:
+    - [The Zen of Prometheus](https://the-zen-of-prometheus.netlify.app)
     - [Google - Monitoring Distributed Systems](https://sre.google/sre-book/monitoring-distributed-systems/)
     - [GOTO Conference - Live Kubernetes Debugging with the Elastic Stack - Philipp Krenn](https://www.youtube.com/watch?v=LvhIMkr0rXg)
     - [Grafana Best practices](https://grafana.com/docs/grafana/latest/best-practices/)
