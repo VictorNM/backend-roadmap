@@ -229,10 +229,17 @@ This repository contains some resources that I have learn / read through my jour
 
 #### General
 
+- Books
+    - [Web API Design: The Missing Link](https://cloud.google.com/files/apigee/apigee-web-api-design-the-missing-link-ebook.pdf)
+
 - Others:
     - [Google API Design Guide](https://cloud.google.com/apis/design)
 
 #### REST
+
+- Others:
+    - [Stripe API Reference](https://stripe.com/docs/api)
+    - [GitHub API Reference](https://docs.github.com/en/rest/reference)
 
 #### GraphQL
 
