@@ -88,6 +88,7 @@ This repository contains some resources that I have learn / read through my jour
     - [Twelve Go Best Practices - Francesc Campoy Flores](https://talks.golang.org/2013/bestpractices.slide)
     - [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)
     - [Go Modules by Example](https://github.com/go-modules-by-example/index)
+    - [Standard Package Layout - Ben Johnson](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
 
 ### Java
 
