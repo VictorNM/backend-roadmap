@@ -191,6 +191,8 @@ This repository contains some resources that I have learn / read through my jour
 
 - Others:
     - [GOTO Conference - Modern Continuous Delivery - Ken Mugrage](https://www.youtube.com/watch?v=lBi85lNmKFw)
+    - [CALMS Framework - Ian Buchanan](https://www.atlassian.com/devops/frameworks/calms-framework)
+    - [GitOps](https://www.gitops.tech)
 
 ### Container
 
