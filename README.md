@@ -2,48 +2,6 @@
 
 This repository contains some resources that I have learn / read through my journey to become a Backend Developer. Because I work mainly with Golang, so many of resources are related to this language.
 
-- [Fundamental](#fundamental)
-  * [Programming fundamental](#programming-fundamental)
-  * [Data Structure & Algorithms](#data-structure---algorithms)
-- [Programming Languages](#programming-languages)
-  * [Go](#go)
-  * [Java](#java)
-  * [C / C++](#c---c--)
-- [Operation System](#operation-system)
-- [Database](#database)
-- [Software Design and Development](#software-design-and-development)
-  * [Design Principles](#design-principles)
-  * [Design Patterns](#design-patterns)
-  * [Architectures](#architectures)
-  * [Software Development](#software-development)
-  * [Refactoring](#refactoring)
-  * [Testing](#testing)
-  * [Monitoring](#monitoring)
-  * [CI/CD](#ci-cd)
-  * [Container](#container)
-  * [Search Engine](#search-engine)
-  * [Message Broker](#message-broker)
-  * [Caching](#caching)
-- [Web Development](#web-development)
-  * [Internet](#internet)
-  * [HTTP/HTTPS](#http-https)
-  * [Web Sockets](#web-sockets)
-  * [Web Servers](#web-servers)
-  * [Web APIs](#web-apis)
-    + [General](#general)
-    + [REST](#rest)
-    + [GraphQL](#graphql)
-    + [gRPC](#grpc)
-  * [Web Security](#web-security)
-- [Developer Tools](#developer-tools)
-  * [Git](#git)
-  * [Bash & Terminal](#bash---terminal)
-  * [SSH](#ssh)
-- [Others](#others)
-  * [Licenses](#licenses)
-  * [Semactic Versioning](#semactic-versioning)
-  * [Character Encodings](#character-encodings)
-
 ## Fundamental
 
 ### Programming fundamental
@@ -155,6 +113,9 @@ This repository contains some resources that I have learn / read through my jour
 
 - Websites:
     - [The Twelve-Factor App](https://12factor.net)
+
+- Others:
+    - [12 Fractured Apps - Kelsey Hightower](https://medium.com/@kelseyhightower/12-fractured-apps-1080c73d481c)
 
 ### Refactoring
 
