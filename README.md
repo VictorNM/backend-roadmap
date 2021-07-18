@@ -198,6 +198,8 @@ This repository contains some resources that I have learn / read through my jour
 
 - Others:
     - [Google API Design Guide](https://cloud.google.com/apis/design)
+    - [InfoQ - How to Design a Good API & Why it Matters - Joshua Bloch](https://www.infoq.com/presentations/effective-api-design/)
+    - [Joshua Bloch: Bumper-Sticker API Design](https://www.infoq.com/articles/API-Design-Joshua-Bloch/)
 
 #### REST
 
@@ -222,6 +224,7 @@ This repository contains some resources that I have learn / read through my jour
 
 - Others:
     - [JSON Web Tokens](https://auth0.com/docs/tokens/concepts/jwts)
+    - [The HTTPS-Only Standard](https://https.cio.gov)
 
 ## Developer Tools
 
