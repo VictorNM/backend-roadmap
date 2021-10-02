@@ -99,6 +99,7 @@ This repository contains some resources that I have learn / read through my jour
     - [GOTO Conference - Five Things Every Developer Should Know about Software Architecture - Simon Brown](https://www.youtube.com/watch?v=9Az0q2XHtH8)
     - [GOTO Conference - Event-based Architecture and Implementations with Kafka and Atom - Eberhard Wolff](https://www.youtube.com/watch?v=Ecg7lvvm8aU)
     - [GOTO Conference - Modular Monoliths - Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE)
+    - [GOTO Conference - Not Just Events: Developing Asynchronous Microservices - Chris Richardson](https://www.youtube.com/watch?v=kyNL7yCvQQc)
     - [InfoQ - Mastering Chaos - A Netflix Guide to Microservices - Josh Evans](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
 
 ### Software Development
@@ -139,6 +140,7 @@ This repository contains some resources that I have learn / read through my jour
     - [The Zen of Prometheus](https://the-zen-of-prometheus.netlify.app)
     - [Google - Monitoring Distributed Systems](https://sre.google/sre-book/monitoring-distributed-systems/)
     - [GOTO Conference - Live Kubernetes Debugging with the Elastic Stack - Philipp Krenn](https://www.youtube.com/watch?v=LvhIMkr0rXg)
+    - [GOTO Conference - Observability, Distributed Tracing & the Complex World - Dave McAllister](https://www.youtube.com/watch?v=2nTJSsBngao)
     - [Grafana Best practices](https://grafana.com/docs/grafana/latest/best-practices/)
     - [Worth a Look: Public Grafana Dashboards](https://grafana.com/blog/2019/05/16/worth-a-look-public-grafana-dashboards/)
 
