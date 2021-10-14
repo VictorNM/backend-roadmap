@@ -70,6 +70,11 @@ This repository contains some resources that I have learn / read through my jour
 
 ## Software Design and Development
 
+### General
+
+- Books:
+    - [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.goodreads.com/en/book/show/48816586-software-engineering-at-google)
+
 ### Design Principles
 
 ### Design Patterns
