@@ -106,6 +106,7 @@ This repository contains some resources that I have learn / read through my jour
     - [GOTO Conference - Modular Monoliths - Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE)
     - [GOTO Conference - Not Just Events: Developing Asynchronous Microservices - Chris Richardson](https://www.youtube.com/watch?v=kyNL7yCvQQc)
     - [InfoQ - Mastering Chaos - A Netflix Guide to Microservices - Josh Evans](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
+    - [InfoQ - Design Microservice Architectures the Right Way - Michael Bryzek](https://www.youtube.com/watch?v=j6ow-UemzBc)
 
 ### Software Development
 
