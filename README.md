@@ -21,6 +21,7 @@ This repository contains some resources that I have learn / read through my jour
     - [Effective Go](https://golang.org/doc/effective_go.html)
     - [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
     - [Modules](https://github.com/golang/go/wiki/Modules)
+    - [Frequently Asked Questions (FAQ)](https://go.dev/doc/faq)
 
 - Books:
     - [The Go Programming Language - Alan A. A. Donovan,  Brian W. Kernighan](https://www.goodreads.com/book/show/25080953-the-go-programming-language)
