@@ -48,6 +48,8 @@ This repository contains some resources that I have learn / read through my jour
     - [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)
     - [Go Modules by Example](https://github.com/go-modules-by-example/index)
     - [Standard Package Layout - Ben Johnson](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
+    - [GopherCon 2018: Kat Zien - How Do You Structure Your Go Apps](https://www.youtube.com/watch?v=oL6JBUk6tj0)
+        - Slide: [github.com/katzien/talks/how-do-you-structure-your-apps](https://github.com/katzien/talks/tree/master/how-do-you-structure-your-apps)
 
 ### Java
 
