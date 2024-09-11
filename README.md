@@ -68,6 +68,20 @@ This repository contains some resources that I have learn / read through my jour
 
 ## Database
 
+### General
+
+- Books:
+    - [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems - Martin Kleppmann](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)
+
+### SQL Database
+
+#### PostgreSQL
+
+- Others:
+    - [Postgres Wiki - Don't Do This](https://wiki.postgresql.org/wiki/Don't_Do_This)
+
+### NoSQL Database
+
 - Others:
     - [GOTO Conference - Introduction to NoSQL - Martin Fowler](https://www.youtube.com/watch?v=qI_g07C_Q5I&t=1110s)
 
