@@ -64,7 +64,7 @@ This repository contains some resources that I have learn / read through my jour
 -  Books:
     - [The C Programming Language - Brian W. Kernighan,  Dennis M. Ritchie](https://www.goodreads.com/book/show/515601.The_C_Programming_Language)
 
-## Operation System
+## Operating System
 
 ## Database
 
